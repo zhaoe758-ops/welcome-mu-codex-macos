@@ -1,0 +1,9 @@
+.build/
+.swiftpm/
+.swiftpm-cache/
+.swift-module-cache/
+.swiftpm-config/
+.clang-cache/
+dist/
+DerivedData/
+*.xcuserstate
